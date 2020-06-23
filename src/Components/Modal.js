@@ -46,7 +46,6 @@ class Modal extends Component {
                             </ModalContainer>
                             )
                         }
-                        return
                     }}
                 </ProductConsumer> 
             </div>
